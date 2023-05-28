@@ -28,7 +28,6 @@ Use the [Play](<Play.ipynb>) notebook to play against all ai versions.
 ### Basic Information & Introduction
 
  - [Summary](<Summary.ipynb>)
-
  - [1.0 - Julia Programming Language.ipynb](<1.0%20-%20Julia%20Programming%20Language.ipynb>)
  - [1.1 - Chess.jl Library.ipynb](<1.1%20-%20Chess.jl%20Library.ipynb>)
  - [2.0 - Gameplay.ipynb](<2.0%20-%20Gameplay.ipynb>)
