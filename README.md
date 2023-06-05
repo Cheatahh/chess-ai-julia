@@ -67,6 +67,10 @@ Use the [Play](<Play.ipynb>) notebook to play against all ai versions.
  - [6.0 - Iterative Deepening.ipynb](<6.0%20-%20Iterative%20Deepening.ipynb>)
  - [6.0.T - Iterative Deepening (Test).ipynb](<6.0.T%20-%20Iterative%20Deepening%20%28Test%29.ipynb>)
 
+### Elo Determination
+ - [6.0.T - Iterative Deepening (Test).ipynb](<6.0.T%20-%20Iterative%20Deepening%20%28Test%29.ipynb>)
+ - [Testing - Stockfish.ipynb](<Testing%20-%20Stockfish.ipynb>)
+
 ---
 
 
