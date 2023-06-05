@@ -14,6 +14,7 @@ The project consists of Jupyter Notebooks, please make sure to install the requi
  - Jupyter Notebook with Julia Kernel, f.e. via IJulia or Conda
  - Chess.jl (autoinstall available via notebook)
  - NBInclude (autoinstall available via notebook)
+ - Plots (autoinstall available via notebook)
 
 ---
 
