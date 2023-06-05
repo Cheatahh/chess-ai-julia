@@ -2,8 +2,8 @@
 [Site "?"]
 [Date "?"]
 [Round "?"]
-[White "?"]
-[Black "?"]
+[White "Stockfish(Engine: Stockfish 15.1, 4)"]
+[Black "IterativeDeepening(ABMemoAllAI, 100, 10.0, \"          # required dependencies for backing AI Type\\n    using NBInclude\\n    @nbinclude \\\"3.1 - Evaluation.ipynb\\\"\\n    @nbinclude \\\"5.1 - Alpha-Beta-Pruning AI.ipynb\\\"\\n\", Base.Threads.Atomic{Int64}(26))"]
 [Result "*"]
 
 1. e3 e5 2. b3 Nc6 3. d4 Qg5 4. e4 Qg6 5. Nf3 Bb4+ 6. c3 Qxe4+ 7. Be2 Ba5 8. b4 Bb6 9. a4 exd4 10. a5 d3 11. axb6 dxe2 12. Qd2 cxb6 13. b5 Nce7 14. Ba3 d6 15. c4 Qxc4 16. Nd4 Kd7 17. Nxe2 Nd5 18. Ra2 Ngf6 19. Rc2 Qxb5 20. Nbc3 Qb3 21. O-O Qxa3 22. Nxd5 Qb3 23. Nxf6+ gxf6 24. Rc3 Qe6 25. Nd4 Qd5 26. h3 Rg8 27. g3 Qe5 28. Re1 Qa5 29. Qc2 Kd8 30. Qxh7 Rxg3+ 31. fxg3 Qxc3 32. Qg8+ Kc7 33. Nb5+ Kc6 34. Nxc3 b5 35. Qxf7 Bxh3 36. Nxb5 d5 37. g4 Bxg4 38. Nd4+ Kc5 39. Qxf6 Kc4 40. Nb5 Kxb5 41. Qe7 b6 42. Ra1 Kc6 43. Kg2 a6 44. Rf1 Rg8 45. Kf2 Ra8 46. Rc1+ Kb5 47. Kg1 Rc8 48. Rb1+ Kc6 49. Ra1 Ra8 50. Rb1 Rg8 51. Kf2 Rb8 52. Rc1+ Kb5 53. Kg3 Rg8 54. Kh2 Rc8 55. Re1 Rc3 56. Qf6 Rh3+ 57. Kg1 Rg3+ 58. Kh2 Rh3+ 59. Kg2 Rb3 60. Ra1 Be2 61. Ra2 Bd3 62. Kh2 Bc4 63. Rd2 a5 64. Qd4 Ka6 65. Qh8 Kb5 66. Qd4 Ka6 67. Kg2 Rb1 68. Qh8 a4 69. Rc2 Re1 70. Qa8+ Kb5 71. Rb2+ Kc5 72. Qa7 Bf1+ 73. Kg3 Re6 74. Qf7 Re3+ 75. Kf2 Re2+ 76. Rxe2 Bxe2 77. Kxe2 a3 78. Qf8+ Kb5 79. Qa8 Kc5 80. Qxa3+ Kc4 81. Qe7 b5 82. Qa3 b4 83. Qe3 b3 84. Qc1+ Kd4 85. Qf4+ Kc3 86. Qd6 Kc4 87. Qa6+ Kb4 88. Qc8 b2 89. Qf5 Kc4 90. Qb1 Kc3 91. Kd1 Kb3 92. Kd2 Kc4 93. Qxb2 d4 94. Qb8 Kd5 95. Qg8+ Ke4 96. Qg2+ Kf4 97. Qg8 Ke4 98. Ke1 Kf5 99. Qh8 d3 100. Kf1 d2 101. Ke2 d1=B+ 102. Ke1 Bf3 103. Qc3 Be4 104. Qe3 Bd5 105. Kd2 Be6 106. Kc1 Bd5 107. Qd4 Ke6 108. Qa7 Be4 109. Kb2 Ke5 110. Qg1 Kd5 111. Qa1 Kd6 112. Qe1 Ke5 113. Qa1 Kd4 114. Qc1 Ke5 115. Qg1 Kd5 116. Kb3 Kd6 117. Qd4+ Bd5+ 118. Kc2 Ke6 119. Qd1 Be4+ 120. Kc3 Bc6 121. Kc4 Be4 122. Qe1 Ke5 123. Qd2 Kf5 124. Kc3 Ke6 125. Qe3 Ke5 126. Qf2 Bc6 127. Qh4 Bd5 128. Qh2+ Kf5 129. Kb2 Be4 130. Qg1 Bd5 131. Qh2 Be4 132. Qg1 Bd5 133. Qh2 *

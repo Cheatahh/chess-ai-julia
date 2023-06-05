@@ -2,8 +2,8 @@
 [Site "?"]
 [Date "?"]
 [Round "?"]
-[White "?"]
-[Black "?"]
+[White "IterativeDeepening(ABMemoAllAI, 100, 10.0, \"          # required dependencies for backing AI Type\\n    using NBInclude\\n    @nbinclude \\\"3.1 - Evaluation.ipynb\\\"\\n    @nbinclude \\\"5.1 - Alpha-Beta-Pruning AI.ipynb\\\"\\n\", Base.Threads.Atomic{Int64}(13))"]
+[Black "Stockfish(Engine: Stockfish 15.1, 6)"]
 [Result "*"]
 
 1. e3 Nf6 2. Qf3 d5 3. Nc3 a6 4. d4 b6 5. Bd3 Bb7 6. Nge2 Nc6 7. O-O Nb4 8. a3 Nxd3 9. cxd3 c5 10. dxc5 bxc5 11. Bd2 e6 12. Rfe1 Bc6 13. Rad1 Bd6 14. d4 Qc7 15. dxc5 d4 16. cxd6 dxc3 17. dxc7 Bxf3 18. Bxc3 Nd5 19. Bxg7 Rg8 20. Rxd5 exd5 21. Nd4 Kd7 22. Be5 Rxg2+ 23. Kf1 Be4 24. f3 Rg5 25. Bf4 Rag8 26. Bxg5 Bd3+ 27. Kf2 Rxg5 28. Rd1 Bg6 29. Rc1 Rh5 30. c8=Q+ Ke7 31. Rc7+ Kf6 32. Qd8+ Kg7 33. Ne6+ Kh6 34. Qf8# *
