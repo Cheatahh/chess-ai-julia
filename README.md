@@ -21,7 +21,7 @@ The project consists of Jupyter Notebooks, please make sure to install the requi
 
 It is recommended to read the notebooks in the order they are listed below. You may skip any test notebooks.
 
-Use the [Play](<Play.ipynb>) notebook to play against all ai versions.
+Use the [Play](<Play.ipynb>) notebook to play against all AI versions.
 
 ### Basic Information & Introduction
 
@@ -64,6 +64,10 @@ Use the [Play](<Play.ipynb>) notebook to play against all ai versions.
 ### Iterative Deepening
  - [6.0 - Iterative Deepening.ipynb](<6.0%20-%20Iterative%20Deepening.ipynb>)
  - [6.0.T - Iterative Deepening (Test).ipynb](<6.0.T%20-%20Iterative%20Deepening%20%28Test%29.ipynb>)
+
+### Elo Determination
+ - [6.0.T - Iterative Deepening (Test).ipynb](<6.0.T%20-%20Iterative%20Deepening%20%28Test%29.ipynb>)
+ - [Testing - Stockfish.ipynb](<Testing%20-%20Stockfish.ipynb>)
 
 ---
 

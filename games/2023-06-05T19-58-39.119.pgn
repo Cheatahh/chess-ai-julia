@@ -1,0 +1,9 @@
+[Event "?"]
+[Site "?"]
+[Date "?"]
+[Round "?"]
+[White "MemoAI(1)"]
+[Black "MemoAI(1)"]
+[Result "*"]
+
+1. Nf3 Nf6 2. Nc3 Nc6 3. d4 Nxd4 4. Qxd4 e5 5. Nxe5 d5 6. Nxd5 Qxd5 7. Qxd5 Nxd5 8. Nxf7 Kxf7 9. e4 Ke6 10. exd5+ Kxd5 11. Kd2 Bd6 12. Kd3 Bxh2 13. Rxh2 Be6 14. Rxh7 Rxh7 15. Be3 Rh2 16. Bxa7 Rxa7 17. Be2 Rxa2 18. Rxa2 Rxg2 19. Ra7 Rxf2 20. Rxb7 Rxe2 21. Kxe2 Ke5 22. Rxc7 Ke4 23. Rxg7 Bf5 24. Kf2 Be6 25. Rf7 Bxf7 26. Ke2 Bd5 27. Kd2 Kd4 28. Ke2 Be6 29. Kf3 Ke5 30. Ke3 Bd5 31. Kd3 Bc6 32. Ke3 Bd5 33. Kd3 Bc6 34. Kc4 Be4 35. Kc5 Bxc2 36. Kc4 Bd3+ 37. Kxd3 Kd5 38. Ke3 Ke5 39. Kd3 Kd5 40. Ke3 Ke5 41. b4 Kd5 42. b5 Ke5 43. b6 Kd5 44. b7 Ke5 45. b8=Q+ Kd5 46. Qd6+ Kxd6 *

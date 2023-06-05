@@ -1,0 +1,9 @@
+[Event "?"]
+[Site "?"]
+[Date "?"]
+[Round "?"]
+[White "MiniMaxAI(1)"]
+[Black "MiniMaxAI(1)"]
+[Result "*"]
+
+1. Nc3 Nf6 2. Nf3 Nc6 3. d4 Nxd4 4. Nxd4 d5 5. Nxd5 Qxd5 6. e4 Qxd4 7. Qxd4 Nxe4 8. Qxe4 e5 9. Qxe5+ Be6 10. Qxe6+ fxe6 11. Ke2 Ke7 12. Kd3 Kd6 13. Be3 e5 14. Bxa7 Rxa7 15. Ke4 Rxa2 16. Rxa2 Be7 17. Bd3 Bf6 18. Ra7 Rd8 19. Rxb7 Re8 20. Rxc7 Kxc7 21. Rd1 Kd6 22. h3 Ke6 23. Bc4+ Ke7 24. Rd7+ Kxd7 25. Bb3 Kd6 26. Bc4 h6 27. Bb3 Rd8 28. Be6 Kxe6 29. h4 Bxh4 30. f4 exf4 31. Kxf4 Bf6 32. Ke4 Bxb2 33. g4 Be5 34. g5 hxg5 35. c4 g4 36. c5 g3 37. c6 g2 38. c7 g1=Q 39. cxd8=Q Qb6 40. Qxb6+ Bd6 41. Qxd6+ Kxd6 42. Kd4 Ke6 43. Ke4 Kd6 44. Kd4 Ke6 45. Ke4 Kf6 46. Kd4 Kf5 47. Kd5 Kf4 48. Kd4 Kf5 49. Kd5 Kf4 50. Kd4 g5 51. Kd5 g4 52. Kd4 g3 53. Kd5 g2 54. Kd4 g1=Q+ 55. Kd5 Qd4+ 56. Kxd4 *
