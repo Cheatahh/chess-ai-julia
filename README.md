@@ -27,11 +27,12 @@ Use the [Play](<Play.ipynb>) notebook to play against all AI versions.
 ### Basic Information & Introduction
 
  - [Summary](<Summary.ipynb>)
+
  - [1.0 - Julia Programming Language.ipynb](<1.0%20-%20Julia%20Programming%20Language.ipynb>)
  - [1.1 - Chess.jl Library.ipynb](<1.1%20-%20Chess.jl%20Library.ipynb>)
  - [2.0 - Gameplay.ipynb](<2.0%20-%20Gameplay.ipynb>)
  - [2.1 - Board.ipynb](<2.1%20-%20Board.ipynb>)
- - [2.1.T - Board (Test).ipynb](<2.1%20-%20Board%20%28Test%29.ipynb>)
+ - [2.1.T - Board (Test).ipynb](<2.1.T%20-%20Board%20%28Test%29.ipynb>)
 
 
 ### Random Movement Baseline
@@ -53,7 +54,7 @@ Use the [Play](<Play.ipynb>) notebook to play against all AI versions.
  - [4.0.T - Memoisierung - Zobrist-Hashing (Test).ipynb](<4.0.T%20-%20Memoisierung%20-%20Zobrist-Hashing%20%28Test%29.ipynb>)
  - [4.1 - Memoisierung - Minimax.ipynb](<4.1%20-%20Memoisierung%20-%20Minimax.ipynb>)
  - [4.1.T - Memoisierung - Minimax.ipynb](<4.1.T%20-%20Memoisierung%20-%20Minimax%20%28Test%29.ipynb>)
- - [4.2 - Memoisierung - Minimax AI.ipynb](<4.1%20-%20Memoisierung%20-%20Minimax%20AI.ipynb>)
+ - [4.2 - Memoisierung - Minimax AI.ipynb](<4.2%20-%20Memoisierung%20-%20Minimax%20AI.ipynb>)
 
 
 ### Alpha-Beta Pruning Optimization
@@ -65,7 +66,7 @@ Use the [Play](<Play.ipynb>) notebook to play against all AI versions.
 ### Iterative Deepening
  - [6.0 - Iterative Deepening.ipynb](<6.0%20-%20Iterative%20Deepening.ipynb>)
  - [6.0.T - Iterative Deepening (Test).ipynb](<6.0.T%20-%20Iterative%20Deepening%20%28Test%29.ipynb>)
-
+ 
 ### Elo Determination
  - [6.0.T - Iterative Deepening (Test).ipynb](<6.0.T%20-%20Iterative%20Deepening%20%28Test%29.ipynb>)
  - [Testing - Stockfish.ipynb](<Testing%20-%20Stockfish.ipynb>)
