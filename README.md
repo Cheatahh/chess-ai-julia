@@ -23,7 +23,7 @@ The project consists of Jupyter Notebooks, please make sure to install the requi
 
 It is recommended to read the notebooks in the order they are listed below. You may skip any test notebooks.
 
-Use the [Play](<Play.ipynb>) notebook to play against all ai versions.
+Use the [Play](<Play.ipynb>) notebook to play against all AI versions.
 
 ### Basic Information & Introduction
 
